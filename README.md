@@ -1,4 +1,4 @@
-# **AI Rock Paper Scissors Game**
+# **Computer Vision-Powered AI Rock Paper Scissors Game**
 
 This is a computer vision-powered Rock, Paper, Scissors game where the player competes against the computer using real-time hand gestures detected via a webcam.
 
