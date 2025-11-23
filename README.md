@@ -4,7 +4,7 @@ This is a computer vision-powered Rock, Paper, Scissors game where the player co
 
 The application uses the MediaPipe library for hand tracking and integrates with a simple Tkinter graphical user interface (GUI) and the pyttsx3 library for voice feedback.
 
-## **✨ Features**
+## **Features**
 
 * **Computer Vision:** Utilizes Google's MediaPipe framework for robust, real-time hand landmark detection and gesture recognition.  
 * **Real-time Gameplay:** Tracks the player's hand position and gesture throughout the countdown.  
@@ -12,7 +12,7 @@ The application uses the MediaPipe library for hand tracking and integrates with
 * **Tkinter GUI:** Provides a clean, dark-themed interface to display the camera feed, score, current move, and game status.  
 * **First-to-Three Wins:** The game continues until either the player or the computer reaches 3 wins.
 
-## **🚀 Prerequisites**
+## **Prerequisites**
 
 To run this application, you must have Python installed (version 3.7+ recommended) and a working webcam.
 
@@ -26,7 +26,7 @@ The following Python libraries are required:
 | Pillow (PIL) | Handling and converting image frames for Tkinter display. |
 | tkinter | Building the graphical user interface (usually built-in with Python). |
 
-## **📦 Installation and Setup**
+## **Installation and Setup**
 
 1. **Clone or Download:** Get the rps\_game.py file to your local machine.  
 2. **Install Dependencies:** Open your terminal or command prompt and run the following command to install the required libraries:  
@@ -35,7 +35,7 @@ The following Python libraries are required:
 3. **Run the Game:** Execute the Python script.  
    python rps\_game.py
 
-## **🎮 How to Play**
+## **How to Play**
 
 The game runs in rounds, aiming for a "first to three" victory.
 
@@ -47,7 +47,7 @@ The game runs in rounds, aiming for a "first to three" victory.
 6. **Next Round:** The game waits for you to show a move again to start the next round.  
 7. **Game Over:** The first player to reach 3 points wins the match.
 
-### **✋ Recognized Hand Gestures**
+### **Recognized Hand Gestures**
 
 The computer vision model recognizes gestures based on the number and position of extended fingers:
 
