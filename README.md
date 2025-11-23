@@ -1,4 +1,3 @@
-# Computer-vision-based-rock-paper-scissor-game
 # **AI Rock Paper Scissors Game**
 
 This is a computer vision-powered Rock, Paper, Scissors game where the player competes against the computer using real-time hand gestures detected via a webcam.
@@ -59,4 +58,4 @@ The computer vision model recognizes gestures based on the number and position o
 | **Scissors** | Index and Middle fingers are extended (V-sign), and all other fingers are folded. |
 
 
-Real-time Rock, Paper, Scissors game that uses computer vision (MediaPipe and OpenCV) to detect and recognize player hand gestures via a webcam.
+
